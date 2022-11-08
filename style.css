@@ -1,0 +1,20 @@
+* {
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lightblue;
+    margin: 15px;
+    margin-left: 10px;
+    margin-top: 5px;
+  }
+  
+  label {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    margin-top: 5px;
+  }
+  
+  div {
+    width: 70%;
+  }
+  
