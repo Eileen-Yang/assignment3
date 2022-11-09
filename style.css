@@ -1,33 +1,44 @@
 * {
     font-size: large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: #e8dff5;
     margin-top: 0px;
     margin-bottom: 15px;
-    margin-left: 10px;
+    margin-left: 0px;
     margin-right: 0px;
   }
 
   header {
-    margin-top: 40px;
-    margin-bottom: 20px;
+    margin: 0px;
     font-family: 'Anton', sans-serif;
-    font-size: 200%;
+    font-size: 350%;
     text-align: center;
   }
   
   label {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
-    font-size: x-large;
+    font-size:150%;
     margin-top: 5px;
+    margin-left: 10px;
   }
 
   select#Movies {
     margin-top: 5px;
+    font-size: 130%;
+  }
+
+  input#get {
+    font-size: 140%;
+    background-color: lightskyblue;
+    border-color: white;
   }
   
+  option {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
   div {
     width: 70%;
+    margin-left: 10px;
   }
   
